@@ -1,0 +1,13 @@
+node_modules/
+npm-debug.log
+
+.idea/
+.vscode/
+dist/
+dist-ghost/
+.DS_Store
+.ipynb_checkpoints/
+
+yarn.lock
+yarn-errpr.log
+package-lock.json
